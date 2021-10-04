@@ -1,0 +1,60 @@
+.buttonUsuarios{
+    background-color:transparent;
+    width: 238px;
+    height: 43px;
+    color: rgba(40,75,90,0.699999988079071);
+    padding: 15px 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    position:absolute;
+    top: 448px;
+    left: 34px;
+}
+.buttonVentas{
+    background-color:transparent;
+    width: 240px;
+    height: 43px;
+    color: rgba(40,75,90,0.699999988079071);
+    padding: 15px 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    position:absolute;
+    top: 271px;
+    left: 32px;
+}
+.buttonProductos{
+    background-color:transparent;
+    width: 240px;
+    height: 43px;
+    color: rgba(40,75,90,0.699999988079071);
+    padding: 15px 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    position:absolute;
+    top: 359px;
+    left: 32px;
+}
+.buttonLogin{
+    background-color:transparent;
+    width: 240px;
+    height: 43px;
+    color: rgba(40,75,90,0.699999988079071);
+    padding: 15px 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    position:absolute;
+    top: 184px;
+    left: 29px;
+}
+.buttonLogout{
+    background-color:transparent;
+    width: 180px;
+    height: 38px;
+    color: rgba(40,75,90,0.699999988079071);
+    padding: 15px 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    position:absolute;
+    top: 619px;
+    left: 57px;
+}

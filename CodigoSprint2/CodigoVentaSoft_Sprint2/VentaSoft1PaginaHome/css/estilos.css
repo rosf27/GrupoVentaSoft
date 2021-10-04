@@ -1,0 +1,12 @@
+.buttonLogin{
+    background-color:transparent;
+    width: 240px;
+    height: 43px;
+    color: rgba(40,75,90,0.699999988079071);
+    padding: 15px 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    cursor: pointer;
+    position:absolute;
+    top: 184px;
+    left: 29px;
+}
