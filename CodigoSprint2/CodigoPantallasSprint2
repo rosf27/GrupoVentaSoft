@@ -1,0 +1,11 @@
+Trabajos completados del sprint 2 al 3 de otubre de 2023
+Se tienen todas las páginas con el entorno gráfico completas
+Son 5 páginas: home, login, ventas, productos y usuarios
+Se puede navegar desde el menú lateral (izquierdo) a todas las páginas
+En la página de Login, se tienen dos comandos Login y Cambiar Password
+Con el comando Login de la página 1 (Login) se muestran en mensajes de alerta los datos tecleados en las cajas de Usuario y Password.
+Los entornos gráficos se crearon con Figma y se ajustaron los archivos html de todas las páginas con la inclusión de los elementos tipo input y button requeridos
+También se agregó archivo estilos.css en cada carpeta de cada página para los estilos y funcionamiento de los elementos input y button
+Se tiene una carpeta CodigoVentaSoft_Sprint2, con las carpetas de los códigos de las 5 páginas, donde están con todos los archivos necesarios para el funcionamiento 
+de la aplicación, además de una carpeta con el archivo .fig que tiene los entornos gráficos y las gráficas de todas las páginas en formato pdf.
+El equipo VentaSoft tiene un repositorio de trabajo adicional, de soporte y compartimiento, en drive de google con toda la información, de todo tipo, generada en el proyecto
