@@ -1,0 +1,3 @@
+En esta carpeta está el código del Sprint4, referente a la autenticación y autorización de usuarios en la aplicación.
+Se utiliza autenticación local, utiizando librerías propias de Node.js y express, como jwt-simple y bcrypt
+El código está completo.
